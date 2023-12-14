@@ -1,0 +1,20 @@
+
+/* Style the card header within a card */
+.card .card-header {
+    /* Apply a linear gradient background for card-header */
+    background-image: linear-gradient(#1e2323, #2c2b2d);
+    /* Set the text color to beige */
+    color: beige;
+}
+
+/* Style the entire card */
+.card {
+    /* Apply a linear gradient background for card*/
+    background-image: linear-gradient(#00b09b, #96c93d);
+}
+
+/* Style the label within the dictionary form */
+.dict-form label {
+    /* Set the text color to beige */
+    color: beige;
+}
